@@ -1,0 +1,14 @@
+uuid: 08aeb9cb-5904-4589-a89e-b9356992971e
+name: 'Revansh Enterprises & Services '
+mail: patilmahesh0008@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
