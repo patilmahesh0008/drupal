@@ -1,0 +1,21 @@
+{
+    "name": "custom_product",
+    "type": "drupal-module",
+    "description": "Custom product content type with QR Code",
+    "keywords": [],
+    "authors": [
+        {
+            "name": "Mahesh Patil",
+            "email": "patilmahesh0008@gmail.com"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "^6.4"
+    },
+    "homepage": "https://www.drupal.org/project/custom_product",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/custom_product",
+        "source": "http://cgit.drupalcode.org/custom_product"
+    }
+}
