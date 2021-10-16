@@ -1,5 +1,7 @@
 name: 'Custom Product'
 type: module
-description: 'Custom Product content type to store product information.'
-core: 8.x
+description: 'Custom product content type with QR Code'
+core_version_requirement: ^8 || ^9
 package: 'Custom'
+dependencies:
+  - node
