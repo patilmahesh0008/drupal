@@ -1,0 +1,5 @@
+name: 'Custom Product'
+type: module
+description: 'Custom Product content type to store product information.'
+core: 8.x
+package: 'Custom'
